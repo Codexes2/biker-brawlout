@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dog.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dog event0000" x="20" y="20" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0001" x="20" y="20" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0002" x="197" y="20" width="160" height="159" frameX="-37" frameY="-37" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0003" x="197" y="20" width="160" height="159" frameX="-37" frameY="-37" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0004" x="377" y="20" width="166" height="154" frameX="-39" frameY="-44" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0005" x="377" y="20" width="166" height="154" frameX="-39" frameY="-44" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0006" x="563" y="20" width="145" height="173" frameX="-38" frameY="-21" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0007" x="563" y="20" width="145" height="173" frameX="-38" frameY="-21" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0008" x="728" y="20" width="151" height="174" frameX="-24" frameY="-18" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0009" x="728" y="20" width="151" height="174" frameX="-24" frameY="-18" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0010" x="899" y="20" width="171" height="176" frameX="0" frameY="-13" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0011" x="899" y="20" width="171" height="176" frameX="0" frameY="-13" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0012" x="1090" y="20" width="131" height="178" frameX="-18" frameY="-6" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0013" x="1090" y="20" width="131" height="178" frameX="-18" frameY="-6" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0014" x="1241" y="20" width="120" height="174" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0015" x="1241" y="20" width="120" height="174" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0016" x="1381" y="20" width="126" height="173" frameX="-38" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0017" x="1527" y="20" width="126" height="173" frameX="-38" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0018" x="1673" y="20" width="127" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0019" x="1820" y="20" width="127" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0020" x="1820" y="20" width="127" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0021" x="20" y="218" width="127" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0022" x="20" y="218" width="127" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0023" x="167" y="218" width="129" height="173" frameX="-36" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0024" x="167" y="218" width="129" height="173" frameX="-36" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0025" x="316" y="218" width="134" height="173" frameX="-33" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0026" x="316" y="218" width="134" height="173" frameX="-33" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0027" x="470" y="218" width="139" height="173" frameX="-28" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0028" x="470" y="218" width="139" height="173" frameX="-28" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0029" x="629" y="218" width="138" height="173" frameX="-29" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0030" x="629" y="218" width="138" height="173" frameX="-29" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0031" x="787" y="218" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0032" x="787" y="218" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0033" x="929" y="218" width="123" height="173" frameX="-41" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0034" x="929" y="218" width="123" height="173" frameX="-41" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0035" x="1072" y="218" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0036" x="1072" y="218" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0037" x="1214" y="218" width="128" height="173" frameX="-39" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0038" x="1214" y="218" width="128" height="173" frameX="-39" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0039" x="1362" y="218" width="135" height="173" frameX="-32" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0040" x="1362" y="218" width="135" height="173" frameX="-32" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0041" x="1517" y="218" width="139" height="173" frameX="-28" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0042" x="1517" y="218" width="139" height="173" frameX="-28" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0043" x="1676" y="218" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0044" x="1676" y="218" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0045" x="1818" y="218" width="123" height="173" frameX="-41" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0046" x="1818" y="218" width="123" height="173" frameX="-41" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0047" x="20" y="411" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0048" x="20" y="411" width="122" height="173" frameX="-43" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0049" x="162" y="411" width="118" height="173" frameX="-49" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0050" x="162" y="411" width="118" height="173" frameX="-49" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0051" x="300" y="411" width="122" height="174" frameX="-45" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0052" x="300" y="411" width="122" height="174" frameX="-45" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0053" x="442" y="411" width="130" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0054" x="442" y="411" width="130" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0055" x="592" y="411" width="130" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0056" x="592" y="411" width="130" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0057" x="742" y="411" width="134" height="173" frameX="-34" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0058" x="742" y="411" width="134" height="173" frameX="-34" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0059" x="896" y="411" width="141" height="173" frameX="-30" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0060" x="896" y="411" width="141" height="173" frameX="-30" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0061" x="1057" y="411" width="143" height="176" frameX="-34" frameY="-7" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0062" x="1057" y="411" width="143" height="176" frameX="-34" frameY="-7" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0063" x="1220" y="411" width="134" height="183" frameX="-37" frameY="0" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0064" x="1220" y="411" width="134" height="183" frameX="-37" frameY="0" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0065" x="1374" y="411" width="143" height="176" frameX="-34" frameY="-7" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0066" x="1374" y="411" width="143" height="176" frameX="-34" frameY="-7" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0067" x="1537" y="411" width="141" height="183" frameX="-30" frameY="0" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0068" x="1537" y="411" width="141" height="183" frameX="-30" frameY="0" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0069" x="1374" y="411" width="143" height="176" frameX="-34" frameY="-7" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0070" x="1374" y="411" width="143" height="176" frameX="-34" frameY="-7" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0071" x="1698" y="411" width="134" height="183" frameX="-37" frameY="0" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0072" x="1698" y="411" width="134" height="183" frameX="-37" frameY="0" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0073" x="1852" y="411" width="145" height="179" frameX="-34" frameY="-4" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0074" x="20" y="614" width="134" height="173" frameX="-34" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0075" x="174" y="614" width="141" height="173" frameX="-30" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0076" x="174" y="614" width="141" height="173" frameX="-30" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0077" x="335" y="614" width="134" height="173" frameX="-34" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0078" x="335" y="614" width="134" height="173" frameX="-34" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0079" x="489" y="614" width="127" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0080" x="489" y="614" width="127" height="173" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0081" x="1381" y="20" width="126" height="173" frameX="-38" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0082" x="1381" y="20" width="126" height="173" frameX="-38" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0083" x="1241" y="20" width="120" height="174" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0084" x="1241" y="20" width="120" height="174" frameX="-37" frameY="-10" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0085" x="1090" y="20" width="131" height="178" frameX="-18" frameY="-6" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0086" x="1090" y="20" width="131" height="178" frameX="-18" frameY="-6" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0087" x="899" y="20" width="171" height="176" frameX="0" frameY="-13" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0088" x="899" y="20" width="171" height="176" frameX="0" frameY="-13" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0089" x="728" y="20" width="151" height="174" frameX="-24" frameY="-18" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0090" x="728" y="20" width="151" height="174" frameX="-24" frameY="-18" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0091" x="563" y="20" width="145" height="173" frameX="-38" frameY="-21" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0092" x="563" y="20" width="145" height="173" frameX="-38" frameY="-21" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0093" x="377" y="20" width="166" height="154" frameX="-39" frameY="-44" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0094" x="377" y="20" width="166" height="154" frameX="-39" frameY="-44" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0095" x="636" y="614" width="160" height="159" frameX="-37" frameY="-37" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0096" x="636" y="614" width="160" height="159" frameX="-37" frameY="-37" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0097" x="816" y="614" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0098" x="816" y="614" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0099" x="993" y="614" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0100" x="993" y="614" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0101" x="1170" y="614" width="159" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0102" x="1170" y="614" width="159" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0103" x="1349" y="614" width="164" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0104" x="1349" y="614" width="164" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0105" x="1533" y="614" width="167" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0106" x="1533" y="614" width="167" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0107" x="1720" y="614" width="152" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0108" x="1720" y="614" width="152" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0109" x="20" y="807" width="147" height="161" frameX="-46" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0110" x="20" y="807" width="147" height="161" frameX="-46" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0111" x="187" y="807" width="147" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0112" x="187" y="807" width="147" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0113" x="354" y="807" width="162" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0114" x="354" y="807" width="162" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0115" x="536" y="807" width="152" height="161" frameX="-41" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0116" x="536" y="807" width="152" height="161" frameX="-41" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0117" x="708" y="807" width="161" height="161" frameX="-36" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0118" x="708" y="807" width="161" height="161" frameX="-36" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0119" x="889" y="807" width="162" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0120" x="889" y="807" width="162" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0121" x="1071" y="807" width="163" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0122" x="1071" y="807" width="163" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0123" x="1254" y="807" width="160" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0124" x="1254" y="807" width="160" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0125" x="354" y="807" width="162" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0126" x="354" y="807" width="162" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0127" x="187" y="807" width="147" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0128" x="187" y="807" width="147" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0129" x="20" y="807" width="147" height="161" frameX="-46" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0130" x="20" y="807" width="147" height="161" frameX="-46" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0131" x="1720" y="614" width="152" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0132" x="1720" y="614" width="152" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0133" x="1533" y="614" width="167" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0134" x="1533" y="614" width="167" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0135" x="1434" y="807" width="156" height="161" frameX="-41" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0136" x="1434" y="807" width="156" height="161" frameX="-41" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0137" x="1610" y="807" width="157" height="161" frameX="-36" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0138" x="1610" y="807" width="157" height="161" frameX="-36" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0139" x="993" y="614" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0140" x="993" y="614" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0141" x="1787" y="807" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0142" x="1787" y="807" width="157" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0143" x="20" y="988" width="159" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0144" x="20" y="988" width="159" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0145" x="199" y="988" width="164" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0146" x="199" y="988" width="164" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0147" x="383" y="988" width="167" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0148" x="383" y="988" width="167" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0149" x="570" y="988" width="152" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0150" x="570" y="988" width="152" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0151" x="742" y="988" width="147" height="161" frameX="-46" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0152" x="742" y="988" width="147" height="161" frameX="-46" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0153" x="909" y="988" width="147" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0154" x="909" y="988" width="147" height="161" frameX="-45" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0155" x="1076" y="988" width="162" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0156" x="1076" y="988" width="162" height="161" frameX="-30" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0157" x="1258" y="988" width="152" height="161" frameX="-41" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0158" x="1258" y="988" width="152" height="161" frameX="-41" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0159" x="1430" y="988" width="161" height="161" frameX="-36" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0160" x="1430" y="988" width="161" height="161" frameX="-36" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0161" x="1611" y="988" width="162" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0162" x="1611" y="988" width="162" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0163" x="1793" y="988" width="162" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0164" x="1793" y="988" width="162" height="161" frameX="-35" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0165" x="1170" y="614" width="159" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0166" x="1170" y="614" width="159" height="161" frameX="-34" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0167" x="20" y="1169" width="159" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog event0168" x="20" y="1169" width="159" height="161" frameX="-33" frameY="-34" frameWidth="205" frameHeight="198"/>
+	<SubTexture name="dog idle REAL0000" x="199" y="1169" width="220" height="188" frameX="0" frameY="-12" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0001" x="199" y="1169" width="220" height="188" frameX="0" frameY="-12" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0002" x="439" y="1169" width="159" height="161" frameX="-58" frameY="-11" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0003" x="439" y="1169" width="159" height="161" frameX="-58" frameY="-11" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0004" x="618" y="1169" width="158" height="163" frameX="-53" frameY="-9" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0005" x="618" y="1169" width="158" height="163" frameX="-53" frameY="-9" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0006" x="796" y="1169" width="143" height="167" frameX="-65" frameY="-4" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0007" x="796" y="1169" width="143" height="167" frameX="-65" frameY="-4" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0008" x="959" y="1169" width="130" height="167" frameX="-80" frameY="-4" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0009" x="959" y="1169" width="130" height="167" frameX="-80" frameY="-4" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0010" x="1109" y="1169" width="129" height="166" frameX="-81" frameY="-5" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0011" x="1109" y="1169" width="129" height="166" frameX="-81" frameY="-5" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0012" x="1258" y="1169" width="134" height="165" frameX="-80" frameY="-6" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0013" x="1258" y="1169" width="134" height="165" frameX="-80" frameY="-6" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0014" x="1412" y="1169" width="151" height="165" frameX="-65" frameY="-6" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0015" x="1583" y="1169" width="158" height="164" frameX="-65" frameY="-8" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0016" x="1761" y="1169" width="168" height="164" frameX="-55" frameY="-8" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0017" x="20" y="1377" width="178" height="165" frameX="-55" frameY="-7" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0018" x="218" y="1377" width="172" height="165" frameX="-61" frameY="-7" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0019" x="410" y="1377" width="180" height="163" frameX="-61" frameY="-8" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0020" x="610" y="1377" width="174" height="163" frameX="-67" frameY="-8" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0021" x="804" y="1377" width="179" height="167" frameX="-67" frameY="-4" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0022" x="1003" y="1377" width="178" height="167" frameX="-68" frameY="-4" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0023" x="1201" y="1377" width="191" height="171" frameX="-55" frameY="0" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0024" x="1412" y="1377" width="191" height="171" frameX="-55" frameY="0" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0025" x="1623" y="1377" width="172" height="170" frameX="-65" frameY="-1" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0026" x="1815" y="1377" width="172" height="170" frameX="-65" frameY="-1" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0027" x="20" y="1568" width="162" height="169" frameX="-66" frameY="-2" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0028" x="202" y="1568" width="165" height="169" frameX="-63" frameY="-2" frameWidth="246" frameHeight="200"/>
+	<SubTexture name="dog idle REAL0029" x="202" y="1568" width="165" height="169" frameX="-63" frameY="-2" frameWidth="246" frameHeight="200"/>
+</TextureAtlas>

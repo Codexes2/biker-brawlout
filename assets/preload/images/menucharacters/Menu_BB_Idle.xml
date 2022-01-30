@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu BB Idle.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M BB Idle0000" x="10" y="10" width="320" height="573" frameX="0" frameY="-36" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0001" x="10" y="10" width="320" height="573" frameX="0" frameY="-36" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0002" x="340" y="10" width="306" height="592" frameX="-3" frameY="-17" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0003" x="340" y="10" width="306" height="592" frameX="-3" frameY="-17" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0004" x="656" y="10" width="305" height="610" frameX="-12" frameY="0" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0005" x="656" y="10" width="305" height="610" frameX="-12" frameY="0" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0006" x="971" y="10" width="317" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0007" x="971" y="10" width="317" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0008" x="1298" y="10" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0009" x="1298" y="10" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0010" x="1624" y="10" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0011" x="1624" y="10" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0012" x="1624" y="10" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0013" x="1624" y="10" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0014" x="10" y="630" width="353" height="580" frameX="0" frameY="-29" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0015" x="10" y="630" width="353" height="580" frameX="0" frameY="-29" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0016" x="373" y="630" width="341" height="590" frameX="-3" frameY="-19" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0017" x="373" y="630" width="341" height="590" frameX="-3" frameY="-19" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0018" x="724" y="630" width="323" height="600" frameX="-12" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0019" x="724" y="630" width="323" height="600" frameX="-12" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0020" x="1057" y="630" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0021" x="1057" y="630" width="316" height="600" frameX="-10" frameY="-10" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0022" x="1383" y="630" width="317" height="604" frameX="-10" frameY="-6" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0023" x="1383" y="630" width="317" height="604" frameX="-10" frameY="-6" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0024" x="1710" y="630" width="317" height="601" frameX="-10" frameY="-9" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0025" x="1710" y="630" width="317" height="601" frameX="-10" frameY="-9" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0026" x="1710" y="630" width="317" height="601" frameX="-10" frameY="-9" frameWidth="353" frameHeight="610"/>
+	<SubTexture name="M BB Idle0027" x="1710" y="630" width="317" height="601" frameX="-10" frameY="-9" frameWidth="353" frameHeight="610"/>
+</TextureAtlas>

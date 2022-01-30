@@ -1,0 +1,31 @@
+{
+	"storyName": "Biker Brawlout (DEMO)",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "roadside",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Daytona",
+			"bb",
+			[
+				80,
+				71,
+				61
+			]
+		]
+	],
+	"weekCharacters": [
+		"bb",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "roadside",
+		"player1": "bf",
+		"player2": "bb",
+		"player3": null,
+		"events": [
+			[
+				122666.666666667,
+				[
+					[
+						"Play Animation",
+						"event",
+						"dog"
+					]
+				]
+			],
+			[
+				125333.333333333,
+				[
+					[
+						"Play Animation",
+						"event",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Daytona"
+	}
+}
